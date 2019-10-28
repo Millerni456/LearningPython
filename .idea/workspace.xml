@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="102b3086-e1ce-4b9d-9f6a-2edd8b0082a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter1/DynamicTypingTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter1/Exercise1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Example2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Example2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Example2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Exercise2.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Exercise2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Exercise2.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/Exercise2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Exercise3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Exercise3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/Exercise3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/data/lorem_ipsum.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/data/sites.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/data/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/data/users2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/defaultdictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/dictionarycomprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/listcomprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/listreverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/namedtuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/unpacking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter3/zipexample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearningPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearningPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/HelloWorld.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S9spA3f0pJbsxDH3JOMwnST54w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter3/data" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chapter3/data" />
+      <recent name="$PROJECT_DIR$/Chapter1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Exercise3.3">
+    <configuration name="Example2.3" type="PythonConfigurationType" factoryName="Python">
+      <output_file path="$PROJECT_DIR$/Chapter2/data/co2-sample.html" is_save="true" />
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2/Example2.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/Chapter2/data/co2-sample.csv" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise1.1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1/Exercise1.1.py" />
+      <option name="PARAMETERS" value="3905748126" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise3.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Exercise3.1.py" />
+      <option name="PARAMETERS" value="&quot;data/python - Google Search.html&quot; data/sites.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise3.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Exercise3.2.py" />
+      <option name="PARAMETERS" value="data/lorem_ipsum.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exercise3.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/Exercise3.3.py" />
+      <option name="PARAMETERS" value="data/users.txt data/users2.txt" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="defaultdictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/defaultdictionaries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zipexample" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LearningPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3/zipexample.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Exercise1.1" />
+      <item itemvalue="Python.Example2.3" />
+      <item itemvalue="Python.defaultdictionaries" />
+      <item itemvalue="Python.zipexample" />
+      <item itemvalue="Python.Exercise3.1" />
+      <item itemvalue="Python.Exercise3.2" />
+      <item itemvalue="Python.Exercise3.3" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Exercise3.3" />
+        <item itemvalue="Python.Exercise3.2" />
+        <item itemvalue="Python.Exercise3.1" />
+        <item itemvalue="Python.zipexample" />
+        <item itemvalue="Python.defaultdictionaries" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="102b3086-e1ce-4b9d-9f6a-2edd8b0082a2" name="Default Changelist" comment="" />
+      <created>1570987326112</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570987326112</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="len(sorted_list)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
